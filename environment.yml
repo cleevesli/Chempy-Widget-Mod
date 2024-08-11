@@ -1,7 +1,6 @@
 dependencies:
-    - python=3.5
+    - python=3.10
     - pip
-    - nbclassic
     - pip:
         - datetime
     - numpy=1.11
