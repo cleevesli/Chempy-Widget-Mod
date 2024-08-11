@@ -1,5 +1,9 @@
 dependencies:
     - python=3.5
+    - pip
+    - nbclassic
+    - pip:
+        - datetime
     - numpy=1.11
     - scipy
     - matplotlib
