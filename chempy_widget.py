@@ -561,6 +561,8 @@ def plotAbundances(element,legend_loc=4,**kwargs):
     
     plt.tight_layout()
     plt.savefig('temp/Abundances_temp_'+element+'.png',)
+    rufus = 5.0/3.0-1
+    rufus = rufus / 4.0
     #plot = ax1.figure
     #return(plot)
     return()
