@@ -3,7 +3,6 @@ dependencies:
     - python=3.5
     - backcall=0.1.0
     - bleach=3.0.2
-    - certifi=2018.8.24
     - chardet=3.0.4
     - corner=2.0.1
     - ipython=7.0.1
