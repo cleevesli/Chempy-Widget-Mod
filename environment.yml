@@ -1,6 +1,5 @@
 dependencies:
     - python=3.5
-    - alembic
     - backcall=0.1.0
     - bleach=3.0.2
     - certifi=2018.8.24
@@ -11,7 +10,6 @@ dependencies:
     - defusedxml=0.5.0
     - entrypoints=0.2.3
     - idna=2.7
-    - ipykernel=5.1.0
     - ipython=7.0.1
     - ipywidgets=7.5.1
     - jedi=0.12.1
@@ -22,9 +20,6 @@ dependencies:
     - MarkupSafe=1.0
     - matplotlib=3.0.0
     - mistune=0.8.3
-    - nbconvert=5.4.0
-    - nbformat=4.4.0
-    - notebook=5.7.8
     - numpy=1.11.3
     - pamela=0.3.0
     - pandocfilters=1.4.2
@@ -32,7 +27,6 @@ dependencies:
     - pexpect=4.6.0
     - pickleshare=0.7.5
     - pip
-    - ptyprocess=0.6.0
     - Pygments=2.2.0
     - pyparsing=2.4.7
     - python-dateutil=2.7.5
@@ -42,11 +36,9 @@ dependencies:
     - pyzmq=17.1.2
     - requests=2.20.1
     - scipy=1.1.0
-    - Send2Trash=1.5.0
     - setuptools=40.4.3
     - simplegeneric=0.8.1
     - six=1.11.0
-    - SQLAlchemy=1.2.14
     - terminado=0.8.1
     - testpath=0.3.1
     - tornado=5.1.1
@@ -54,7 +46,6 @@ dependencies:
     - urllib3=1.24.1
     - wcwidth=0.1.7
     - webencodings=0.5.1
-    - wheel=0.32.0
     - widgetsnbextension=3.5.1
     - pip:
         - git+https://github.com/jan-rybizki/Chempy.git@v0.1
