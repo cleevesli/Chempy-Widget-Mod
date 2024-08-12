@@ -17,6 +17,10 @@ dependencies:
     - pandocfilters=1.4.2
     - pickleshare=0.7.5
     - Pygments=2.2.0
+    - pyparsing=2.4.7
+    - python-dateutil=2.7.5
+    - python-editor=1.0.3
+    - python-oauth2=1.1.0
     - pytz=2022.1
     - pyzmq=17.1.2
     - scipy=1.1.0
