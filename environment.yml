@@ -1,35 +1,15 @@
 dependencies:
     - pip
     - python=3.5
-    - backcall=0.1.0
-    - bleach=3.0.2
-    - chardet=3.0.4
-    - corner=2.0.1
-    - ipython=7.0.1
-    - ipywidgets=7.5.1
-    - jedi=0.12.1
-    - Mako=1.0.7
-    - MarkupSafe=1.0
+    - numpy=1.11
+    - scipy=1.1.0
     - matplotlib=3.0.0
-    - mistune=0.8.3
-    - numpy=1.11.3
-    - pamela=0.3.0
-    - pandocfilters=1.4.2
-    - pickleshare=0.7.5
-    - Pygments=2.2.0
-    - pyparsing=2.4.7
+    - corner=2.0.1
+    - ipywidgets=7.5.1
+    - ipython=7.0.1
     - python-dateutil=2.7.5
     - python-editor=1.0.3
     - python-oauth2=1.1.0
-    - pytz=2022.1
-    - pyzmq=17.1.2
-    - scipy=1.1.0
-    - testpath=0.3.1
-    - tornado=5.1.1
-    - wcwidth=0.1.7
-    - webencodings=0.5.1
     - widgetsnbextension=3.5.1
-    - ipykernel
-    - nbconvert
     - pip:
         - git+https://github.com/jan-rybizki/Chempy.git@v0.1
