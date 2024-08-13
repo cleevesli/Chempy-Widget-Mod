@@ -1,9 +1,10 @@
 dependencies:
     - python=3.5
+    - pip
     - numpy=1.11
-    - scipy=1.1
-    - matplotlib=3.0
-    - corner=2.0
+    - scipy=1.1.0
+    - matplotlib=3.0.0
+    - corner=2.0.1
     - ipywidgets=7.5
     - widgetsnbextension=3.5
     - pip:
