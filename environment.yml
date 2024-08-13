@@ -5,6 +5,6 @@ dependencies:
     - matplotlib=3.0
     - corner=2.0
     - ipywidgets=7.5
-    - widgetsnbextension=4.0
+    - widgetsnbextension=3.5
     - pip:
         - git+https://github.com/jan-rybizki/Chempy.git@v0.1
