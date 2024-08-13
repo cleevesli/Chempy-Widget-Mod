@@ -1,12 +1,9 @@
 dependencies:
-    - python=3.10
-    - pip
-    - pip:
-        - git+https://github.com/jan-rybizki/Chempy.git@v0.1
-    - numpy
+    - python=3.5
+    - numpy=1.11
     - scipy
     - matplotlib
     - corner
     - ipywidgets
-    - widgetsnbextension
-
+    - pip:
+        - git+https://github.com/jan-rybizki/Chempy.git@v0.1
