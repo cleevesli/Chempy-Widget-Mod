@@ -1,8 +1,8 @@
 dependencies:
-    - python=3.6
+    - python=3.5
     - pip
     - ipywidgets=7.7
-    - widgetsnbextension=3.6
+    - widgetsnbextension=3.5
     - numpy=1.11
     - scipy=1.1.0
     - matplotlib=3.0.0
