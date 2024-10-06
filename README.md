@@ -6,7 +6,7 @@ Chempy-Widget is an interactive iPython widget for Jan Rybizki's flexible one-zo
 Chempy-Widget is hosted on [Binder](https://mybinder.org/), which takes care of all necessary dependencies and allows anybody to interactively use the notebook. 
 
 Click on the following link to start playing around with Chempy-Widget!
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cleevesli/Chempy-Widget-Mod/VBox-Hack?filepath=chempy_widget.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cleevesli/Chempy-Widget-Mod/VBox-Hack_v2?filepath=chempy_widget.ipynb)
 ### Dependencies
 Chempy-Widget was written in Python v3.5 and no effort (as of yet) has been made to check its backwards compatibility.
 
